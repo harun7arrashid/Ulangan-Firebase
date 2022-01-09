@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960283476247",
+    "project_id": "ulangan-lazday",
+    "storage_bucket": "ulangan-lazday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960283476247:android:706be351af49d9e9367752",
+        "android_client_info": {
+          "package_name": "id.s1mple.ulanganfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960283476247-56dsqith351ra69n1l6rrqj3u1jf825b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoEic23z8oERunmMsyfV6fZDvlJlxF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960283476247-56dsqith351ra69n1l6rrqj3u1jf825b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
